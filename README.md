@@ -1,5 +1,8 @@
+
 ## Modelagem Dimensional Star Schema 🎯 
 
+### Stacks utilizadas
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="50"/>
 
 ### Objetivo 🎯 
 
